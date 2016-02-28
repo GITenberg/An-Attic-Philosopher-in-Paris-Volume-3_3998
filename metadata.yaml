@@ -1,0 +1,23 @@
+_repo: An-Attic-Philosopher-in-Paris-Volume-3_3998
+creator:
+  author:
+    agent_name: Souvestre, Émile
+    alias: Souvestre, Emile
+    birthdate: 1806
+    deathdate: 1854
+    gutenberg_agent_id: '1351'
+    url: http://www.gutenberg.org/2009/agents/1351
+description: Translation of Un philosophe sous les toits.
+gutenberg_issued: '2003-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Paris (France) -- Fiction'
+title: An Attic Philosopher in Paris — Volume 3
+url: http://www.gutenberg.org/ebooks/3998
